@@ -4,7 +4,7 @@
 
 Я начинаюший Тестировщик ПО / QA engineer
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.matyasov.86@gmail.com)
+- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:matyasov.86@gmail.com)
 
 Languages anl tools
 
