@@ -1,6 +1,6 @@
 [![Header](https://github.com/ArtemMatyasov/artemmatyasov/blob/main/assets/logoMatyasov.png)](https://ya.ru)
 
-About me
+Я начинаюший Тестировщик ПО/QA engineer
 
 dsfhgkjsdfhYTUBE
 
