@@ -2,7 +2,7 @@
 
 [![Header](https://github.com/ArtemMatyasov/artemmatyasov/blob/main/assets/logoMatyasov.png)](https://ya.ru)
 
-Я начинаюший Тестировщик ПО / QA engineer
+## Я начинаюший Тестировщик ПО / QA engineer. Обучаюсь на Тестировщика ПО в Университете Иннополис.
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:matyasov.86@gmail.com)
 
@@ -14,8 +14,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp  
   <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="java" alt="java" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title="linux" alt="linux" width="40" height="40"/>
-
-Follow me
 
 ### 🤝 Социальные сети:
 
@@ -36,6 +34,10 @@ Follow me
 </div>
 
 ---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/ArtemMatyasov/badges/large)
 
 ### 💾 Работа с данными:
 
