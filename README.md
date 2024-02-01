@@ -16,7 +16,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp  
   <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="java" alt="java" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" title="linux" alt="linux" width="40" height="40"/>
+
 ---
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
@@ -24,7 +26,9 @@
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
+
 ---
+
 ### 📱 Тестирование мобильных приложений:
 
 <div>
