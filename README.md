@@ -4,7 +4,7 @@
 
 ## Я начинаюший Тестировщик ПО / QA engineer. Обучаюсь на Тестировщика ПО в Университете Иннополис.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:matyasov.86@gmail.com)
+## 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:matyasov.86@gmail.com)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 💻 Codewars:
 
-## ![codewars](https://www.codewars.com/users/ArtemMatyasov/badges/large)
+### ![codewars](https://www.codewars.com/users/ArtemMatyasov/badges/large)
 
 ### 💾 Работа с данными:
 
